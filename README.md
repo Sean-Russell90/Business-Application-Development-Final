@@ -1,5 +1,5 @@
 # Business Application Development Final
-### University of Washington IS 320 Final Project - June 2020
+### Final Project - June 2020
 
 This is my submission for my final project for the business application development class I took at UW's Foster School of Business.
 
